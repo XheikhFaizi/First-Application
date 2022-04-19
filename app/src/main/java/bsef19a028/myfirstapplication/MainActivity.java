@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
 
                 double pound = 2.205* kg;
 
-                text.setText("The Coresponding Kg in Pound Is: "+pound);
+                text.setText("The Corespond ing Kg in Pound Is: "+pound);
             }
         });
         
