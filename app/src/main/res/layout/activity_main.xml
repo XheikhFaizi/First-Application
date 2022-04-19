@@ -50,7 +50,7 @@
         android:layout_height="wrap_content"
         android:text="Enter the Kg Value Below"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="#E91E63"
+        android:textColor="#009688"
         android:textColorHint="#009688"
         android:textColorLink="#FF0E60"
         android:textStyle="bold"
